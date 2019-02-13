@@ -7,6 +7,7 @@ Wireframe html created with separate elements titled `header`, `nav`, `section`,
 * CSS page
 * ReadMe File
 
-I can't believe I completed this task! :+1
+I can't believe I completed this task! 
+:+1
 
 
