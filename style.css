@@ -4,6 +4,8 @@
 * {
     box-sizing: border-box;
     text-align: center;
+   
+    
     
 }
 
@@ -14,7 +16,9 @@ body    {
     background: #777;
     width: 960px;
     font-size: 18px;
-    box-align: center;
+    max-width: 960;
+    margin: auto;
+    
 }
 
 header  {
