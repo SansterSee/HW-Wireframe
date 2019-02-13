@@ -17,13 +17,16 @@ body    {
 header  {
     background: #ebebeb;
     width: 100%;
-    padding: 20px;
-    margin-bottom: 20px;
+    padding: 30px;
+    margin-bottom: 10px;
 
 }
 
 nav {
     background: #ebebeb;
+    width: 100%;
+    padding: 30px;
+    margin-bottom: 10px;
 
 }
 
